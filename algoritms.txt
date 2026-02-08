@@ -1,0 +1,17 @@
+Pieslēgšanās e-pastam.
+Ir mērķis pieslēgties savam e-pastam, lai izlasīt jauno vēstuli.
+1. Atver sava e-pasta mājas lapu. Piemēram www.inbox.lv
+2. Ievadi savu lietotājvārdu un paroli. 
+3. Ja ne atceries savu paroli, vari viņu atjaunot nospiedot "aizmirsu paroli".
+4. Pēc datu ievadīšanas uzspied pogu "Ienākt".
+5. Gatavs, vari lasīt vēstules.
+
+Kafijas iegāde.
+Ir mērķis nopirkt konkrēto kafiju veikalā (maltā kafija Jacobs)
+1. Ienāc veikalā.
+2. Aizej uz nodaļu kur tirgo kafiju.
+3. Izlasi kafijas nosaukumus un veidus.
+4. Atrodi malto kafiju ar nosaukumu Jacobs.
+5. Paskaties uz cenu. Jā ir atlaide ar veikala karti, ne aizmirsti izlietot to karti pie kases.
+6. Paņem vajadzīgo kafiju. 
+7. Samaksā veikalā par viņu.
