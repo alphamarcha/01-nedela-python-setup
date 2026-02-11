@@ -1,5 +1,5 @@
 
-print("Hello for VS Code")
+print("Hello, world!")
 print("My name is Marks")
 print("I am 26 year old")
 print("""I am from Jelgava
