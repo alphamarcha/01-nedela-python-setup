@@ -1,3 +1,4 @@
+
 print("Hello for VS Code")
 print("My name is Marks")
 print("I am 26 year old")
@@ -11,4 +12,4 @@ print("I am",26,"years old.") #Man ir 26 gadi
 x = "Marks"
 y = "Es esmu"
 print(y); 
-print(x)
+print(x);
